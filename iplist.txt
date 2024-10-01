@@ -14,6 +14,7 @@
 89.116.158.0/24	## Latitude-sh ## US-NewYork
 89.116.218.0/24	## Latitude-sh ## US-NewYork
 89.117.101.0/24	## Latitude-sh ## US-LA
+89.117.254.0/24	## Latitude-sh ## US-NewYork # hotspot shield
 102.129.248.0/21	## Latitude-sh ## US-NewYork
 103.111.32.0/23	## M247 ## US-Woodside # hotspotshield
 104.232.36.0/23	## M247 EU / Latitude ## Kaz / US-LA # M247
