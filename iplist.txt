@@ -11,6 +11,7 @@
 69.50.92.0/22	## GTHost ## US-Denver # shock vpn
 78.31.205.0/24	## M247 EU ## US-NewYork # M247
 89.116.154.0/24	## Latitude-sh ## US-NewYork
+89.116.158.0/24	## Latitude-sh ## US-NewYork
 89.116.218.0/24	## Latitude-sh ## US-NewYork
 89.117.101.0/24	## Latitude-sh ## US-LA
 102.129.248.0/21	## Latitude-sh ## US-NewYork
