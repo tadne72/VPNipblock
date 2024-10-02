@@ -1,6 +1,22 @@
 #
 #
 #
+23.26.245.0/24	## Latitude-sh ## US-redwoodcity
+23.227.128.0/19	## 24shells ## US
+23.249.172.0/24	## M247 EU ## US-NewYork # M247
+37.120.216.0/24	## M247 ## US-NewYork #
+45.152.180.0/24	## M247 ## US-Newyork # nord vpn
+46.37.116.0/24	## M247 EU ## US-NewYork # M247
+64.40.156.0/24	## Latitude-sh ## US-LA
+69.50.92.0/22	## GTHost ## US-Denver # shock vpn
+78.31.205.0/24	## M247 EU ## US-NewYork # M247
+89.116.154.0/24	## Latitude-sh ## US-NewYork
+89.116.158.0/24	## Latitude-sh ## US-NewYork
+89.116.218.0/24	## Latitude-sh ## US-NewYork
+89.116.253.0/24	## Latitude-sh ## US-LA
+89.117.101.0/24	## Latitude-sh ## US-LA
+89.117.254.0/24	## Latitude-sh ## US-NewYork # hotspot shield
+89.249.203.0/24	## M247 ## US-NewYork # nordvpn
 102.129.248.0/21	## Latitude-sh ## US-NewYork
 103.111.32.0/23	## M247 ## US-Woodside # hotspotshield
 104.232.36.0/23	## M247 EU / Latitude ## Kaz / US-LA # M247
@@ -9,8 +25,8 @@
 134.195.196.0/22	## GTHost ## CA-Toronto
 139.28.216.0/24	## M247 ## US-LA # nord vpn
 139.64.164.0/22	## GTHost ## US-Denver
-146.70.195.0/24	## M247 ## US-LA # M247
 146.70.63.0/24	## M247 EU ## US-NewYork # M247
+146.70.195.0/24	## M247 ## US-LA # M247
 149.88.0.0/17	## Cogent ## Many # many vpn
 149.88.16.0/20	## PsiNetInc ## US/CA # nord vpn
 162.255.45.0/24	## Latitude-sh ## US-NewYork
@@ -23,17 +39,3 @@
 212.46.33.0/24	## Latitude-sh ## US-NewYork
 216.39.248.0/22	## GTHost ## US-Chicago # shock vpn
 217.138.198.0/24	## M247 ## US-NewYork # nord vpn
-23.227.128.0/19	## 24shells ## US
-23.249.172.0/24	## M247 EU ## US-NewYork # M247
-23.26.245.0/24	## Latitude-sh ## US-redwoodcity
-37.120.216.0/24	## M247 ## US-NewYork #
-45.152.180.0/24	## M247 ## US-Newyork # nord vpn
-46.37.116.0/24	## M247 EU ## US-NewYork # M247
-64.40.156.0/24	## Latitude-sh ## US-LA
-69.50.92.0/22	## GTHost ## US-Denver # shock vpn
-78.31.205.0/24	## M247 EU ## US-NewYork # M247
-89.116.154.0/24	## Latitude-sh ## US-NewYork
-89.116.158.0/24	## Latitude-sh ## US-NewYork
-89.116.218.0/24	## Latitude-sh ## US-NewYork
-89.117.101.0/24	## Latitude-sh ## US-LA
-89.117.254.0/24	## Latitude-sh ## US-NewYork # hotspot shield
