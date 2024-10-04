@@ -38,6 +38,7 @@
 193.239.87.0/24	## M247 ## US-NewYork # nord vpn
 194.34.105.0/24	## Latitude-sh ## US-NewYork
 198.145.224.0/20	## various ## various # M247
+209.205.192.0/19	## 24 Shells ## US-Piscataway #
 212.46.33.0/24	## Latitude-sh ## US-NewYork
 216.39.248.0/22	## GTHost ## US-Chicago # shock vpn
 217.138.198.0/24	## M247 ## US-NewYork # nord vpn
