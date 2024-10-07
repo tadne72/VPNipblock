@@ -31,6 +31,7 @@
 146.70.195.0/24	## M247 ## US-LA # M247
 149.88.0.0/17	## Cogent ## Many # many vpn
 149.88.16.0/20	## PsiNetInc ## US/CA # nord vpn
+158.51.120.0/22	## GTHost ## CA-Montreal # ???
 162.255.45.0/24	## Latitude-sh ## US-NewYork
 178.211.159.0/24	## M247 EU ## US-NewYork # M247
 184.174.5.0/24	## CoLo America ## US-LA # M247
