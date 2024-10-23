@@ -3,7 +3,7 @@
 #
 13.90.255.195/32	## minecraft realm
 13.92.185.156/32	## minecraft realm
-13.107.253.70/32	## minecraft realm?
+# 13.107.253.70/32	## minecraft realm? - some microsoft service
 23.26.245.0/24	## Latitude-sh ## US-redwoodcity
 23.227.128.0/19	## 24shells ## US
 23.249.172.0/24	## M247 EU ## US-NewYork # M247
