@@ -50,6 +50,7 @@
 192.119.160.0/20	## M247 ## US-LA # hotspotshield
 193.239.87.0/24	## M247 ## US-NewYork # nord vpn
 194.34.105.0/24	## Latitude-sh ## US-NewYork
+195.206.104.0/21	## M247 ## EU # nord vpn
 198.145.224.0/20	## various ## various # M247
 209.205.192.0/19	## 24 Shells ## US-Piscataway #
 212.46.33.0/24	## Latitude-sh ## US-NewYork
