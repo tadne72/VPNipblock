@@ -3,13 +3,16 @@
 #
 # 13.107.253.70/32	## minecraft realm? # microsoft service?
 3.14.71.143/32	## some game
+3.79.31.108/32	## some game
 13.90.255.195/32	## minecraft realm
 13.92.185.156/32	## minecraft realm
 23.26.245.0/24	## Latitude-sh ## US-redwoodcity
 23.227.128.0/19	## 24shells ## US
 23.249.172.0/24	## M247 EU ## US-NewYork # M247
+31.13.188.0/22	## M247 ## US-SanFran # 
 37.120.128.0/19	## M247 ## US-NewYork # nord vpn 128-159
 37.120.192.0/19	## M247 ## US-NewYork # 192 223
+38.132.96.0/19	## M247 ## various # various
 38.132.105.0/24	## Cogent ## US-NewYork # M247
 45.152.180.0/24	## M247 ## US-Newyork # nord vpn
 46.37.116.0/24	## M247 EU ## US-NewYork # M247
