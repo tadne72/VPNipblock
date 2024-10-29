@@ -16,6 +16,7 @@
 37.120.192.0/19	## M247 ## US-NewYork # 192 223
 38.132.96.0/19	## M247 ## various # various
 38.132.105.0/24	## Cogent ## US-NewYork # M247
+40.71.174.11	## minecraft?
 40.123.44.26/32	## minecraft?
 45.56.192.0/21	## CloudIP ## EU # hotspot shield
 45.152.180.0/24	## M247 ## US-Newyork # nord vpn
