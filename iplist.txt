@@ -28,6 +28,7 @@
 64.40.156.0/24	## Latitude-sh ## US-LA
 69.50.92.0/22	## GTHost ## US-Denver # shock vpn
 78.31.205.0/24	## M247 EU ## US-NewYork # M247
+83.136.182.0/24	## Dedipath ## US-Den # NordVPN
 89.116.154.0/24	## Latitude-sh ## US-NewYork
 89.116.158.0/24	## Latitude-sh ## US-NewYork
 89.116.218.0/24	## Latitude-sh ## US-NewYork
