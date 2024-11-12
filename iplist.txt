@@ -24,6 +24,7 @@
 45.152.180.0/24	## M247 ## US-Newyork # nord vpn
 46.37.116.0/24	## M247 EU ## US-NewYork # M247
 52.138.103.59/32	## minecraft?
+52.186.79.106/32	## minecraft?
 52.191.117.253/32	## minecraft realm? # microsoft service?
 63.141.48.0/20	## Cloud IP
 64.40.156.0/24	## Latitude-sh ## US-LA
