@@ -41,6 +41,7 @@
 89.249.203.0/24	## M247 ## US-NewYork # nordvpn
 102.129.248.0/21	## Latitude-sh ## US-NewYork
 103.111.32.0/23	## M247 ## US-Woodside # hotspotshield
+104.209.140.47	## minecraft?
 104.232.36.0/23	## M247 EU / Latitude ## Kaz / US-LA # M247
 104.234.0.0/16	## Velcom ## Various # Various
 104.243.212.0/22	## M247 EU ## US-NewYork # M247
