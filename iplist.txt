@@ -59,6 +59,7 @@
 162.251.164.0/22	## dedicated.com ? eh?
 162.255.45.0/24	## Latitude-sh ## US-NewYork
 169.197.140.0/22	## GTHost ## US-Seattle # 169.197.143.222
+172.191.92.116	## minecraft?
 178.211.159.0/24	## M247 EU ## US-NewYork # M247
 184.174.5.0/24	## CoLo America ## US-LA # M247
 185.230.126.0/24	## M247 ## US-LA # proton vpn
