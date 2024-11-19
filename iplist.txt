@@ -17,7 +17,6 @@
 37.120.128.0/19	## M247 ## US-NewYork # nord vpn 128-159
 37.120.192.0/19	## M247 ## US-NewYork # 192 223
 37.120.244.0/22	## M247EU ## various # ProtonVPN
-37.120.244.0/22	## M247 ## EU # EU
 38.132.96.0/19	## M247 ## various # various
 38.132.105.0/24	## Cogent ## US-NewYork # M247
 38.143.66.0/24	## Cogent ## US-Seattle #
