@@ -54,6 +54,7 @@
 134.195.196.0/22	## GTHost ## CA-Toronto
 139.28.216.0/24	## M247 ## US-LA # nord vpn
 139.64.164.0/22	## GTHost ## US-Denver
+141.11.18.0/24	## M247 ## US-NewYork # ?
 146.70.0.0/16	## M247 ## various # various
 146.70.63.0/24	## M247 EU ## US-NewYork # M247
 146.70.195.0/24	## M247 ## US-LA # M247
