@@ -36,6 +36,7 @@
 83.136.182.0/24	## Dedipath ## US-Den # NordVPN
 84.32.95.0/24	## latitude sus
 86.38.32.0/24	## latitude sus
+89.46.62.0/24	## M247 ## US # Mullvad
 89.116.154.0/24	## Latitude-sh ## US-NewYork
 89.116.158.0/24	## Latitude-sh ## US-NewYork
 89.116.218.0/24	## Latitude-sh ## US-NewYork
