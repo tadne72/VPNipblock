@@ -72,6 +72,7 @@
 178.211.159.0/24	## M247 EU ## US-NewYork # M247
 184.174.5.0/24	## CoLo America ## US-LA # M247
 185.230.126.0/24	## M247 ## US-LA # proton vpn
+190.2.155.0/24	## Proton worldstream
 192.119.8.0/21	## 24 Shells ## US-Piscataway #
 192.119.160.0/20	## M247 ## US-LA # hotspotshield
 193.239.87.0/24	## M247 ## US-NewYork # nord vpn
