@@ -2,68 +2,28 @@
 #
 #
 # 13.107.253.70/32	## minecraft realm? # microsoft service?
-102.129.248.0/21	## Latitude-sh ## US-NewYork
-103.111.32.0/23	## M247 ## US-Woodside # hotspotshield
-104.209.140.47	## minecraft?
-104.232.36.0/23	## M247 EU / Latitude ## Kaz / US-LA # M247
-104.234.0.0/16	## Velcom ## Various # Various
-104.243.212.0/22	## M247 EU ## US-NewYork # M247
-104.243.215.0/24	## M247 EU ## US-NewYork # M247
-128.116.0.0/17	## ROBLOX
+3.14.71.143/32	## some game
+3.79.31.108/32	## some game
+4.157.241.195/32	## minecraft realm :30106
 13.90.255.195/32	## minecraft realm 
 13.92.185.156/32	## minecraft realm
 13.92.252.140/32	## minecraft?
-130.195.216.0/22	## M247 EU ## Various # M247
-134.195.196.0/22	## GTHost ## CA-Toronto
-139.28.216.0/24	## M247 ## US-LA # nord vpn
-139.64.164.0/22	## GTHost ## US-Denver
-141.11.18.0/24	## M247 ## US-NewYork # ?
-146.70.0.0/16	## M247 ## various # various
-146.70.195.0/24	## M247 ## US-LA # M247
-146.70.63.0/24	## M247 EU ## US-NewYork # M247
-149.22.0.0/16	## Cogent ## Many # many vpn
-149.40.61.0/23	## IPVanish VPN
-149.88.0.0/17	## Cogent ## Many # many vpn
-149.88.16.0/20	## PsiNetInc ## US/CA # nord vpn
-158.51.120.0/22	## GTHost ## CA-Montreal # ???
-162.251.164.0/22	## dedicated.com ? eh?
-162.255.45.0/24	## Latitude-sh ## US-NewYork
-169.197.140.0/22	## GTHost ## US-Seattle # 169.197.143.222
-172.191.92.116	## minecraft?
-178.211.159.0/24	## M247 EU ## US-NewYork # M247
-184.174.5.0/24	## CoLo America ## US-LA # M247
-185.230.126.0/24	## M247 ## US-LA # proton vpn
-190.2.155.0/24	## Proton worldstream
-192.119.160.0/20	## M247 ## US-LA # hotspotshield
-192.119.8.0/21	## 24 Shells ## US-Piscataway #
-193.239.87.0/24	## M247 ## US-NewYork # nord vpn
-194.34.105.0/24	## Latitude-sh ## US-NewYork
-195.206.104.0/21	## M247 ## EU # nord vpn
-198.145.224.0/20	## various ## various # M247
 20.186.8.49/32	## minecraft?
-204.14.72.0/21	## CloudIP ## EU # hotspot shield
-209.205.192.0/19	## 24 Shells ## US-Piscataway #
-212.46.33.0/24	## Latitude-sh ## US-NewYork
-216.39.248.0/22	## GTHost ## US-Chicago # shock vpn
-217.138.198.0/24	## M247 ## US-NewYork # nord vpn
+23.26.245.0/24	## Latitude-sh ## US-redwoodcity
 23.227.128.0/19	## 24shells ## US
 23.249.172.0/24	## M247 EU ## US-NewYork # M247
-23.26.245.0/24	## Latitude-sh ## US-redwoodcity
-3.14.71.143/32	## some game
-3.79.31.108/32	## some game
 31.13.188.0/22	## M247 ## US-SanFran # 
 31.222.254.0/24	## packethub ## US-SLC # NordVPN
 37.120.128.0/19	## M247 ## US-NewYork # nord vpn 128-159
 37.120.192.0/19	## M247 ## US-NewYork # 192 223
 37.120.244.0/22	## M247EU ## various # ProtonVPN
-38.132.105.0/24	## Cogent ## US-NewYork # M247
 38.132.96.0/19	## M247 ## various # various
+38.132.105.0/24	## Cogent ## US-NewYork # M247
 38.143.66.0/24	## Cogent ## US-Seattle #
-4.157.241.195/32	## minecraft realm :30106
-40.123.44.26/32	## minecraft?
 40.71.174.11/32	## minecraft?
-45.152.180.0/24	## M247 ## US-Newyork # nord vpn
+40.123.44.26/32	## minecraft?
 45.56.192.0/21	## CloudIP ## EU # hotspot shield
+45.152.180.0/24	## M247 ## US-Newyork # nord vpn
 46.37.116.0/24	## M247 EU ## US-NewYork # M247
 52.138.103.59/32	## minecraft?
 52.186.79.106/32	## minecraft? :30121
@@ -77,6 +37,8 @@
 83.136.182.0/24	## Dedipath ## US-Den # NordVPN
 84.32.95.0/24	## latitude sus
 86.38.32.0/24	## latitude sus
+87.249.132.0/21	## ProtonVPN ## Datacamp
+89.46.62.0/24	## M247 ## US # Mullvad
 89.116.154.0/24	## Latitude-sh ## US-NewYork
 89.116.158.0/24	## Latitude-sh ## US-NewYork
 89.116.218.0/24	## Latitude-sh ## US-NewYork
@@ -84,4 +46,43 @@
 89.117.101.0/24	## Latitude-sh ## US-LA
 89.117.254.0/24	## Latitude-sh ## US-NewYork # hotspot shield
 89.249.203.0/24	## M247 ## US-NewYork # nordvpn
-89.46.62.0/24	## M247 ## US # Mullvad
+102.129.248.0/21	## Latitude-sh ## US-NewYork
+103.111.32.0/23	## M247 ## US-Woodside # hotspotshield
+104.209.140.47	## minecraft?
+104.232.36.0/23	## M247 EU / Latitude ## Kaz / US-LA # M247
+104.234.0.0/16	## Velcom ## Various # Various
+104.243.212.0/22	## M247 EU ## US-NewYork # M247
+104.243.215.0/24	## M247 EU ## US-NewYork # M247
+128.116.0.0/17	## ROBLOX
+130.195.216.0/22	## M247 EU ## Various # M247
+134.195.196.0/22	## GTHost ## CA-Toronto
+139.28.216.0/24	## M247 ## US-LA # nord vpn
+139.64.164.0/22	## GTHost ## US-Denver
+141.11.18.0/24	## M247 ## US-NewYork # ?
+146.70.0.0/16	## M247 ## various # various
+146.70.63.0/24	## M247 EU ## US-NewYork # M247
+146.70.195.0/24	## M247 ## US-LA # M247
+149.22.0.0/16	## Cogent ## Many # many vpn
+149.40.61.0/23	## IPVanish VPN
+149.88.0.0/17	## Cogent ## Many # many vpn
+149.88.16.0/20	## PsiNetInc ## US/CA # nord vpn
+158.51.120.0/22	## GTHost ## CA-Montreal # ???
+162.251.164.0/22	## dedicated.com ? eh?
+162.255.45.0/24	## Latitude-sh ## US-NewYork
+169.197.140.0/22	## GTHost ## US-Seattle # 169.197.143.222
+172.191.92.116	## minecraft?
+178.211.159.0/24	## M247 EU ## US-NewYork # M247
+184.174.5.0/24	## CoLo America ## US-LA # M247
+185.230.126.0/24	## M247 ## US-LA # proton vpn
+190.2.155.0/24	## Proton worldstream
+192.119.8.0/21	## 24 Shells ## US-Piscataway #
+192.119.160.0/20	## M247 ## US-LA # hotspotshield
+193.239.87.0/24	## M247 ## US-NewYork # nord vpn
+194.34.105.0/24	## Latitude-sh ## US-NewYork
+195.206.104.0/21	## M247 ## EU # nord vpn
+198.145.224.0/20	## various ## various # M247
+204.14.72.0/21	## CloudIP ## EU # hotspot shield
+209.205.192.0/19	## 24 Shells ## US-Piscataway #
+212.46.33.0/24	## Latitude-sh ## US-NewYork
+216.39.248.0/22	## GTHost ## US-Chicago # shock vpn
+217.138.198.0/24	## M247 ## US-NewYork # nord vpn
