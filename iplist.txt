@@ -36,6 +36,7 @@
 69.50.92.0/22	## GTHost ## US-Denver # shock vpn
 78.31.205.0/24	## M247 EU ## US-NewYork # M247
 83.136.182.0/24	## Dedipath ## US-Den # NordVPN
+84.16.240.0/24	## leaseweb
 84.32.95.0/24	## latitude sus
 86.38.32.0/24	## latitude sus
 87.249.132.0/21	## ProtonVPN ## Datacamp
@@ -89,4 +90,5 @@
 209.205.192.0/19	## 24 Shells ## US-Piscataway #
 212.46.33.0/24	## Latitude-sh ## US-NewYork
 216.39.248.0/22	## GTHost ## US-Chicago # shock vpn
+217.20.118.0/24	## leaseweb
 217.138.198.0/24	## M247 ## US-NewYork # nord vpn
