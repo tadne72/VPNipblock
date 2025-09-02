@@ -25,6 +25,7 @@
 38.143.66.0/24	## Cogent ## US-Seattle #
 40.71.174.11/32	## minecraft?
 40.123.44.26/32	## minecraft?
+45.14.71.0/23	## M247
 45.56.192.0/21	## CloudIP ## EU # hotspot shield
 45.152.180.0/24	## M247 ## US-Newyork # nord vpn
 46.37.116.0/24	## M247 EU ## US-NewYork # M247
@@ -50,6 +51,7 @@
 89.117.101.0/24	## Latitude-sh ## US-LA
 89.117.254.0/24	## Latitude-sh ## US-NewYork # hotspot shield
 89.249.203.0/24	## M247 ## US-NewYork # nordvpn
+94.229.221.0/24	## lat.sh
 102.129.248.0/21	## Latitude-sh ## US-NewYork
 103.111.32.0/23	## M247 ## US-Woodside # hotspotshield
 104.209.140.47	## minecraft?
@@ -100,4 +102,3 @@
 216.247.106.0/24	## M247
 217.20.118.0/24	## leaseweb
 217.138.198.0/24	## M247 ## US-NewYork # nord vpn
-45.14.71.0/23	## M247
