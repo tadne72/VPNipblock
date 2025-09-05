@@ -16,6 +16,7 @@
 23.249.172.0/24	## M247 EU ## US-NewYork # M247
 31.13.188.0/22	## M247 ## US-SanFran # 
 31.222.254.0/24	## packethub ## US-SLC # NordVPN
+37.19.198.0/23	## datacamp
 37.120.128.0/19	## M247 ## US-NewYork # nord vpn 128-159
 37.120.192.0/19	## M247 ## US-NewYork # 192 223
 37.120.244.0/22	## M247EU ## various # ProtonVPN
