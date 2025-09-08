@@ -44,6 +44,7 @@
 84.32.95.0/24	## latitude sus
 86.38.32.0/24	## latitude sus
 87.249.132.0/21	## ProtonVPN ## Datacamp
+89.38.97.0/24	
 89.46.62.0/24	## M247 ## US # Mullvad
 89.116.154.0/24	## Latitude-sh ## US-NewYork
 89.116.158.0/24	## Latitude-sh ## US-NewYork
@@ -51,6 +52,7 @@
 89.116.253.0/24	## Latitude-sh ## US-LA
 89.117.101.0/24	## Latitude-sh ## US-LA
 89.117.254.0/24	## Latitude-sh ## US-NewYork # hotspot shield
+89.187.170.0/23	
 89.249.203.0/24	## M247 ## US-NewYork # nordvpn
 94.229.221.0/24	## lat.sh
 102.129.248.0/21	## Latitude-sh ## US-NewYork
@@ -65,6 +67,7 @@
 134.195.196.0/22	## GTHost ## CA-Toronto
 138.199.7.0/24	## datacamp ProtonVPN
 138.199.21.0/24	## ProtonVPN ## tokyo
+138.199.22.0/23	
 139.28.216.0/24	## M247 ## US-LA # nord vpn
 139.64.164.0/22	## GTHost ## US-Denver
 141.11.18.0/24	## M247 ## US-NewYork # ?
@@ -85,6 +88,7 @@
 172.191.92.116	## minecraft?
 178.211.159.0/24	## M247 EU ## US-NewYork # M247
 184.174.5.0/24	## CoLo America ## US-LA # M247
+185.156.47.0/24	
 185.195.200.0/22	## M247
 185.208.152.0/22	## Wired ISP
 185.230.126.0/24	## M247 ## US-LA # proton vpn
